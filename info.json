@@ -4,7 +4,10 @@
   "title": "Space eXperience",
   "author": "MaxAstro",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0"],
+  "dependencies": [
+    "base >= 2.0.20",
+    "space-age"
+  ],
   "description": "Get better at launching rockets the more rockets you launch, with higher productivity and new recipes for rocket parts.",
   "package": {
     "git_publish_branch": "main",
